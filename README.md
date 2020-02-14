@@ -7,6 +7,7 @@ However, the statistical discrepancy between the tracts and the average data for
 Altogether, these statistics show that around Johns Hopkins University, Baltimore is a greater place to live with higher income overall with a statistically insignificant difference of employment. However, when the entire cities are considered, Mountain Home is drastically better with greater income overall and higher employment.
 
 Visual Graphs:
+
 ![Income Comparison - Tract](Income_CompT.png)
 ![Income Comparison - City-Wide](Income_CompCW.png)
 ![Employment Rate - Tract](Employment_RateT.png)
