@@ -17,7 +17,7 @@ Links:
 
 [Opportunity Atlas](https://www.opportunityatlas.org/)
 
-[Mountain Home Data](Mountain Home.csv)
+[Mountain Home Data](MountainHome.csv)
 
 [Baltimore Data](Baltimore.csv)
 
